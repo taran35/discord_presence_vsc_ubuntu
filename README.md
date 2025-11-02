@@ -19,7 +19,7 @@ Exemple (Visual Studio Code non ouvert) <br>
 <img src="capture.png" alt="" width="250" height="100" />
 
 ```
-CLIENT_ID = "1433922682080067594" # ID du client (application)
+CLIENT_ID = "1234567890123456789" # ID du client (application)
 descr = "Sa fonctionne pas..."
 l_img = "nom" # Image non existante -> photo de profil de l'application affichée
 s_img = "image" # Image défini affichée
@@ -29,7 +29,7 @@ Exemple (Visual Studio Code ouvert sur botinfo.js) <br>
 <img src="capture2.png" alt="" width="250" height="100" />
 
 ```
-CLIENT_ID = "1433922682080067594" # ID du client (application)
+CLIENT_ID = "1234567890123456789" # ID du client (application)
 descr = "Nouvelle description !"
 l_img = "image" # Image défini affichée
 s_img = "test" # Image non existante -> rien d'affiché
