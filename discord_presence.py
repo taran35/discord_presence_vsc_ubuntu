@@ -5,7 +5,7 @@ import subprocess
 # pip install -U pypresence
 # sudo apt install xdotool
 
-CLIENT_ID = "1433922682080067594" # ID du client (application)
+CLIENT_ID = "1234567890123456789" # ID du client (application)
 descr = "Sa fonctionne pas..."
 l_img = "nom" # Nom de la grande image de l'activité (a importer dans le developer portal)
 s_img = "nom" # Nom de la petite image de l'activité (a importer dans le developer portal)
