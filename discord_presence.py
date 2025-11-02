@@ -30,6 +30,9 @@ try:
                 details_text = "Pas dans VSCode"
         except subprocess.CalledProcessError:
             details_text = "Pas dans VSCode"
+            
+        if len(details_text) > 128:
+            details_text = details_text[:125] + "..."
 
         RPC.update(
             details=details_text,
